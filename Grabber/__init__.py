@@ -16,16 +16,16 @@ logging.getLogger('httpx').setLevel(logging.WARNING)
 logging.getLogger("pyrate_limiter").setLevel(logging.ERROR)
 LOGGER = logging.getLogger(__name__)
 
-OWNER_ID = 6691393517
-sudo_users = ["6691393517", "6691393517"]
-GROUP_ID = -1001802990747
-TOKEN = "6576720076:AATBvGaPhqWKrSayoXnIL0YtG18"
+OWNER_ID = 5932230962
+sudo_users = ["5932230962", "5932230962"]
+GROUP_ID = -1001875834087
+TOKEN = "6576720076:6437630510:AAG-u1m9aoQENSrOlonDBiR6iTA3Vr150hw"
 mongo_url = "mongodb+srv://te3:te23@cluster0.ysbpgcp.mongodb.net/?retryWrites=true&w=majority"
 PHOTO_URL = ["https://telegra.ph/file/72ea883532b722f405059.jpg", "https://telegra.ph/file/72ea883532b722f405059.jpg"]
-SUPPORT_CHAT = "HEROKUFREECC"
-UPDATE_CHAT = "HEROKUFREECC"
-BOT_USERNAME = "AnzooBot"
-CHARA_CHANNEL_ID = -1001802990747
+SUPPORT_CHAT = "VG_SUPPORT_CHAT"
+UPDATE_CHAT = "VG_BOTZ"
+BOT_USERNAME = "Waifu_x_robot"
+CHARA_CHANNEL_ID = -1001875834087
 api_id = 6435225
 api_hash = "4e984ea35f854762dcde906dce426c2d"
 
